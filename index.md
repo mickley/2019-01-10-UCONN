@@ -261,10 +261,12 @@ eventbrite:     "53867150096"      # optional: alphanumeric key for Eventbrite r
 {% endif %}
 
 <hr/>
-<br/>
-<br/>
-<br/>
-<br/>
+&nbsp;
+<br/>&nbsp;
+<br/>&nbsp;
+<br/>&nbsp;
+<br/>&nbsp;
+<hr/>
 
 {% comment %}
   SETUP
